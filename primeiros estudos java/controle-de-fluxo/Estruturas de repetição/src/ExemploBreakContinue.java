@@ -1,5 +1,5 @@
-//Exemplo de brak e continue com for
-public class ExemploBrakContinue {
+//Exemplo de break e continue com for
+public class ExemploBreakContinue {
     public static void main(String[] args) {
 
         //break
